@@ -1,0 +1,29 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "0237b4529d22e38863b3ee5ac55eae0aee8019c93e3594cc4d5ac9c2d9b71d45"
+build_start_time: [1695612041, 329992000]
+build_end_time: [1695612041, 361129000]
+inputs:
+  ? "/Users/manushipaudel/Desktop/Swift-Style1 copy/swift_style/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : !private [1695612031, 78903689]
+  ? "/Users/manushipaudel/Desktop/Swift-Style1 copy/swift_style/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : !private [1695612031, 79367733]
+  ? "/Users/manushipaudel/Desktop/Swift-Style1 copy/swift_style/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift"
+  : !private [1695612031, 79743484]
+  ? "/Users/manushipaudel/Desktop/Swift-Style1 copy/swift_style/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : !private [1695612031, 79929026]
+  ? "/Users/manushipaudel/Desktop/Swift-Style1 copy/swift_style/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : !private [1695612031, 80109360]
+  ? "/Users/manushipaudel/Desktop/Swift-Style1 copy/swift_style/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : !private [1695612031, 80444944]
+  ? "/Users/manushipaudel/Desktop/Swift-Style1 copy/swift_style/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : !private [1695612031, 79051273]
+  ? "/Users/manushipaudel/Desktop/Swift-Style1 copy/swift_style/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : !private [1695612031, 78747397]
+  ? "/Users/manushipaudel/Desktop/Swift-Style1 copy/swift_style/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : !private [1695612031, 80612361]
+  ? "/Users/manushipaudel/Desktop/Swift-Style1 copy/swift_style/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : !private [1695612031, 80277152]
+  ? "/Users/manushipaudel/Desktop/Swift-Style1 copy/swift_style/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : !private [1695612031, 79214149]
+  ? "/Users/manushipaudel/Desktop/Swift-Style1 copy/swift_style/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : !private [1695612031, 79577775]
